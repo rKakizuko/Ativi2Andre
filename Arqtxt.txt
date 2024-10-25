@@ -1,2 +1,3 @@
 Como fazer farm de pocao grande:
 - Pegar chao de slime roxo (venenoso)
+- Construir Area quadrada de 40 blocos de altura por 40 blocos de largura (qualquer tipo de bloco)
