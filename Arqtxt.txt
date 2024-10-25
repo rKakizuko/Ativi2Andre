@@ -1,6 +1,1 @@
-Como fazer farm de pocao grande:
-- Pegar chao de slime roxo (venenoso)
-- Construir Area quadrada de 40 blocos de altura por 40 blocos de largura (qualquer tipo de bloco)
-- fazer 156 traps de metal para matar os slimes (colocar traps apenas nas bordas)
-- Fazer farm de amora-coracao (30x30)
-- Aproveitar pocoes grandes infinitas!
+Como fazer farm de pocao pequena:
