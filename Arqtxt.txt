@@ -1,5 +1,6 @@
-Como fazer farm de pocao pequena:
--Farmar limo da maneira mais eficiente: matando glurch ou coletando limo no rastro deixado por glorm
--Buscar sementes de amora-coracao para fazer uma farm
--Fazer a farm de amora coracao (20x20)
--Aproveitar sua pequena farm ate o late game!
+Como fazer farm de pocao grande:
+- Pegar chao de slime roxo (venenoso)
+- Construir Area quadrada de 40 blocos de altura por 40 blocos de largura (qualquer tipo de bloco)
+- fazer 156 traps de metal para matar os slimes (colocar traps apenas nas bordas)
+- Fazer farm de amora-coracao (30x30)
+- Aproveitar pocoes grandes infinitas!
